@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+
+<html>
+
+  <head>
+
+    <meta charset="utf-8">
+
+    <title>NM$L</title>
+
+    <!--这是一个单行注释余语句-->
+
+  </head>
+
+  <body>
+
+  hello!
+
+  <br />
+
+  </body>
+
+ </html>
