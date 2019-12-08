@@ -18,7 +18,7 @@
   
   <img src="https://github.com/NCUJiGe/307874461/blob/master/p1.jpg"><!--绝对路径-->
   
-  <img src="p2.jgp"><!--相对路径-->
+  <img src="p2.jpg"><!--相对路径-->
 
   <br />
 
